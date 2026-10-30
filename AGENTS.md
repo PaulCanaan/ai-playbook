@@ -18,6 +18,24 @@ AI for their own projects: experience first, in plain language, top-down.
 Articles are the journey; patterns.md holds the distilled principles;
 glossary.md defines every term; skills/ will hold publishable skills.
 
+## Scope — what belongs here, and what stays out
+
+This repository records the AI journey, and only what other people can
+reuse (set by Paul, 2026-10-30):
+
+- **Belongs here:** the journey's story at the level of method; general
+  rules and patterns; skills meant to be shared.
+- **Stays out:** personal information, and the specifics of any particular
+  project — its names, people, dates, decisions, and data. A project may
+  appear only as a generic example of a method ("a ministry project," "an
+  online store"), never as a record of the project itself.
+- Project specifics live in their own homes — their repositories and
+  trackers. When a lesson seems to depend on a project detail, generalize
+  the detail until the lesson stands without it. If it cannot, the
+  material belongs somewhere else.
+- When in doubt, leave it out. A generality can be added later; an
+  over-specific commit lives in the history forever.
+
 ## Rules
 
 - **English** for filenames, headings, and canonical terms. Preserve

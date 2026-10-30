@@ -35,3 +35,6 @@ practical.*
 - **2026-10-30** — Paul granted agents PR-merging permission for this
   repository only (an experiment). First exercise: the pull request that
   recorded the policy in AGENTS.md, opened and merged by the agent.
+- **2026-10-30** — Paul set the content boundary: journey record, general
+  rules, and shareable skills only — no personal information, no project
+  specifics. Recorded as the Scope section in AGENTS.md (PR #2).
