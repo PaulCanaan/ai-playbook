@@ -1,0 +1,51 @@
+{
+  "name": "ai-playbook",
+  "version": 1,
+  "updated": "2026-10-30",
+  "series": [
+    {
+      "number": 1,
+      "title": "The Personal Agent",
+      "folder": "articles/series-1-the-personal-agent",
+      "description": "Onboarding a personal AI agent and building the system around it: memory, project tracking, rooms, and guardrails."
+    },
+    {
+      "number": 2,
+      "title": "Your Agent, Your Project Manager",
+      "folder": "articles/series-2-your-agent-your-project-manager",
+      "description": "The orchestrator discipline: routing work, project rooms, tracked goals, weekly reviews, gates, and agent handoffs."
+    },
+    {
+      "number": 3,
+      "title": "AI for Ministry Operations",
+      "folder": "articles/series-3-ai-for-ministry-operations",
+      "description": "Building operations systems for churches, including Obsidian as a ministry knowledge base — written for other churches to copy."
+    },
+    {
+      "number": 4,
+      "title": "Learning by Building",
+      "folder": "articles/series-4-learning-by-building",
+      "description": "Setting up environments and learning by practicing: building real websites and applications."
+    }
+  ],
+  "articles": [
+    {
+      "number": 1,
+      "title": "Onboarding a Personal Agent",
+      "series": 1,
+      "path": "articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md",
+      "date": "2026-10-30",
+      "status": "Living",
+      "patterns": [1, 2, 3, 4, 5, 6],
+      "terms": ["ai-agent", "personal-agent", "github", "repository", "commit", "context", "side-chat", "orchestrator"]
+    }
+  ],
+  "planned_articles": [
+    { "number": 2, "title": "Giving the Agent a Memory It Can Keep", "series": 1 },
+    { "number": 3, "title": "Separating Memory from Management", "series": 1 },
+    { "number": 4, "title": "One Room per Project", "series": 1 },
+    { "number": 5, "title": "Guardrails That Keep You in Charge", "series": 1 },
+    { "number": 6, "title": "What Breaks", "series": 1 }
+  ],
+  "skills": []
+}
