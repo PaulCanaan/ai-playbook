@@ -17,6 +17,8 @@ practical.*
   publishing rule.
 - The repository is private; all content is written public-safe so it can
   be shared later without a rewrite.
+- **Maintenance experiment (2026-10-30):** agents may merge pull requests
+  in this repository — see the merge policy in AGENTS.md.
 
 ## Next candidates
 
@@ -30,3 +32,6 @@ practical.*
 - **2026-10-30** — Repository designed (v3: human-friendly + AI-native)
   and seeded. Frame, Article 001, glossary (12 terms), patterns (6),
   skills shelf, and this file committed at Paul's direction.
+- **2026-10-30** — Paul granted agents PR-merging permission for this
+  repository only (an experiment). First exercise: the pull request that
+  recorded the policy in AGENTS.md, opened and merged by the agent.

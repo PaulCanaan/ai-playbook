@@ -36,9 +36,23 @@ glossary.md defines every term; skills/ will hold publishable skills.
   commit as the work it describes when practical.
 - **One article (or one fix) per commit.** Commit messages say what changed
   and cite the article number when one is touched.
-- **The owner approves every commit and push.** Prepare the change, show it,
-  and wait for Paul's explicit go-ahead. Never commit secrets or personal
-  information.
+- **The owner approves changes.** Direct commits and pushes to `main` need
+  Paul's explicit go-ahead. Never commit secrets or personal information.
+  Pull requests follow the merge policy below — its one scoped exception.
+
+## Pull requests and merging (owner-granted experiment, 2026-10-30)
+
+- Agents working in this repository may open pull requests for proposed
+  changes.
+- The maintaining agent may **merge** pull requests in **this repository
+  only**, after the consistency checks above pass and the pull request
+  description states what changed and why. Paul granted this on
+  2026-10-30 as an experiment in agent-managed maintenance.
+- The permission is scoped to `ai-playbook`. It does **not** extend to any
+  other repository, where the owner's per-change review and explicit
+  merge instruction remain required.
+- Paul may revoke it at any time; a revocation is recorded here and in
+  STATE.md.
 - **Minimum viable complexity.** Do not add folders, files, or process that
   the current content has not earned.
 
