@@ -22,6 +22,7 @@ avoid.
 | [What is MCP?](what-is-mcp.md) | The standard plug for connecting agents to tools |
 | [What is an agent loop?](what-is-an-agent-loop.md) | The observe–decide–act cycle that makes an agent |
 | [What is RAG?](what-is-rag.md) | Answering from retrieved documents instead of memory alone |
+| [What is an embedding?](what-is-an-embedding.md) | Finding things by meaning instead of matching words |
 
 ## Tools
 
@@ -32,7 +33,6 @@ avoid.
 
 ## Planned next
 
-- What is an embedding? (how "find by meaning" works)
 - What is AI infrastructure? (the layer everything runs on)
 - What is inference?
 

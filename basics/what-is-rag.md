@@ -91,4 +91,4 @@ the right place — as load-bearing work.
   retrieved passages are placed into, and why choosing them matters.
 - [AnythingLLM](../resources/README.md) — RAG over your own documents,
   ready to run.
-- *Planned:* What is an embedding? — how "find by meaning" actually works.
+- [What is an embedding?](what-is-an-embedding.md) — how "find by meaning" actually works, and the step underneath RAG's retrieval.

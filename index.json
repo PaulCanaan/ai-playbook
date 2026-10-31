@@ -19,7 +19,7 @@
       "number": 3,
       "title": "AI for Ministry Operations",
       "folder": "articles/series-3-ai-for-ministry-operations",
-      "description": "Building operations systems for churches, including Obsidian as a ministry knowledge base — written for other churches to copy."
+      "description": "Building operations systems for churches, including Obsidian as a ministry knowledge base \u2014 written for other churches to copy."
     },
     {
       "number": 4,
@@ -227,13 +227,16 @@
       "path": "basics/what-is-obsidian.md",
       "stage": 4,
       "track": "tools"
+    },
+    {
+      "slug": "what-is-an-embedding",
+      "title": "What Is an Embedding?",
+      "path": "basics/what-is-an-embedding.md",
+      "stage": 4,
+      "track": "concepts"
     }
   ],
   "planned_basics": [
-    {
-      "slug": "what-is-an-embedding",
-      "title": "What Is an Embedding?"
-    },
     {
       "slug": "what-is-ai-infrastructure",
       "title": "What Is AI Infrastructure?"

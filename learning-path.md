@@ -79,6 +79,8 @@ reuse.
 - Get workspace intuition from **AnythingLLM** with your own documents —
   and read [What is RAG?](basics/what-is-rag.md) for the technique
   underneath it.
+- Read [What is an embedding?](basics/what-is-an-embedding.md) — the numbers
+  that make "find by meaning" work, and the step underneath RAG's retrieval.
 - Meet [Obsidian](basics/what-is-obsidian.md) — the local, files-you-own
   knowledge base that Series 3 builds ministry operations on.
 - Learn how agents reach the world through **MCP servers**.
