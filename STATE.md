@@ -15,10 +15,12 @@ practical.*
   articles yet. Series folders are created when their first article lands.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
-- **Basics:** the concept layer is live — basics/ holds seven articles
-  in two tracks (concepts: LLM, token, CLI, API, MCP; tools: GitHub,
-  Obsidian) plus an index; the glossary and learning path link to them.
-  Three more are planned (context window, RAG, agent loop).
+- **Basics:** the concept layer is live — basics/ holds ten articles
+  in two tracks (concepts: LLM, token, context window, CLI, API, MCP,
+  agent loop, RAG; tools: GitHub, Obsidian) plus an index; the glossary
+  and learning path link to them. Three more are planned (embedding,
+  AI infrastructure, inference — the start of the infrastructure
+  cluster Paul pointed to on 2026-10-30).
 - **Knowledge base:** resources/README.md holds the curated library (10
   resources — six seeded by Paul, four added by his agent) and
   learning-path.md arranges them into Stages 0–4 for future readers.
@@ -29,6 +31,9 @@ practical.*
 
 ## Next candidates
 
+- Basics batch 3 — What is an embedding?, then the infrastructure
+  cluster (AI infrastructure, inference). A weekly working cadence for
+  this repository is proposed and awaits Paul's go-ahead on the schedule.
 - Article 002 — Giving the Agent a Memory It Can Keep (the Personal
   Context OS story). Awaits Paul's go-ahead and his review of the draft.
 - Articles 003–006 in outline (see the design record in index.json's
@@ -45,6 +50,11 @@ practical.*
 - **2026-10-30** — Paul set the content boundary: journey record, general
   rules, and shareable skills only — no personal information, no project
   specifics. Recorded as the Scope section in AGENTS.md (PR #2).
+- **2026-10-30** — Basics batch 2 written at Paul's direction: context
+  window, RAG, and agent loop complete the planned concept set, wired
+  into the glossary, basics index, and learning path (Stages 1, 2, 4);
+  embedding and an infrastructure cluster (AI infrastructure, inference)
+  queued as the next planned basics (PR #6).
 - **2026-10-30** — Basics gained a tools track at Paul's direction:
   What is GitHub? and What is Obsidian?, wired into the glossary,
   learning path (Stages 1 and 4), and index (PR #5).
