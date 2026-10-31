@@ -8,6 +8,11 @@ them — never in bulk, ahead of need.
 files, using tools, and carrying context between tasks. More than a chatbot
 that answers one question and forgets it.
 
+**AI infrastructure** — The physical and rented machinery a model runs
+on: specialized chips, servers, data centers, networks, and the hosting
+services that serve models through an API. Full article:
+[What is AI infrastructure?](basics/what-is-ai-infrastructure.md)
+
 **Agent loop** — The repeating cycle an agent works in: observe the
 current state, decide the next step, act (often by calling a tool), and
 observe the result — until the task is done or a rule stops it. Full

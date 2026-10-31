@@ -23,6 +23,7 @@ avoid.
 | [What is an agent loop?](what-is-an-agent-loop.md) | The observe–decide–act cycle that makes an agent |
 | [What is RAG?](what-is-rag.md) | Answering from retrieved documents instead of memory alone |
 | [What is an embedding?](what-is-an-embedding.md) | Finding things by meaning instead of matching words |
+| [What is AI infrastructure?](what-is-ai-infrastructure.md) | The layer everything runs on |
 
 ## Tools
 
@@ -33,7 +34,6 @@ avoid.
 
 ## Planned next
 
-- What is AI infrastructure? (the layer everything runs on)
 - What is inference?
 
 *Basics follow [templates/basics-template.md](../templates/basics-template.md):

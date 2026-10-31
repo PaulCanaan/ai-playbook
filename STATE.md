@@ -15,12 +15,12 @@ practical.*
   articles yet. Series folders are created when their first article lands.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
-- **Basics:** the concept layer is live — basics/ holds eleven articles
+- **Basics:** the concept layer is live — basics/ holds twelve articles
   in two tracks (concepts: LLM, token, context window, CLI, API, MCP,
-  agent loop, RAG, embedding; tools: GitHub, Obsidian) plus an index;
-  the glossary and learning path link to them. Two more are planned
-  (AI infrastructure, inference — the start of the infrastructure
-  cluster Paul pointed to on 2026-10-30).
+  agent loop, RAG, embedding, AI infrastructure; tools: GitHub, Obsidian)
+  plus an index; the glossary and learning path link to them. One more
+  is planned (inference — the last of the infrastructure cluster Paul
+  pointed to on 2026-10-30).
 - **Knowledge base:** resources/README.md holds the curated library (10
   resources — six seeded by Paul, four added by his agent) and
   learning-path.md arranges them into Stages 0–4 for future readers.
@@ -31,10 +31,10 @@ practical.*
 
 ## Next candidates
 
-- Basics batch 3 continues — the infrastructure cluster (AI
-  infrastructure, inference). The weekly working session for this
-  repository is live (Tuesdays, approved by Paul on 2026-10-30); its
-  first run shipped What is an embedding?
+- Basics batch 3 continues — inference, the last planned basic. The
+  weekly working session for this repository is live (Tuesdays, approved
+  by Paul on 2026-10-30); its runs have shipped What is an embedding?
+  and What is AI infrastructure?
 - Article 002 — Giving the Agent a Memory It Can Keep (the Personal
   Context OS story). Awaits Paul's go-ahead and his review of the draft.
 - Articles 003–006 in outline (see the design record in index.json's
@@ -75,3 +75,9 @@ practical.*
   embedding from planned_basics to basics; the stale "weekly cadence
   awaits go-ahead" line corrected to record Paul's 2026-10-30 approval
   and the live Tuesday session.
+
+- **2026-10-30** — Weekly working session: What is AI infrastructure?
+  written (basics, Stage 4, concepts track), wired into the glossary,
+  basics index, and learning path (Stage 4); index.json moved AI
+  infrastructure from planned_basics to basics; inference remains as
+  the last planned basic.
