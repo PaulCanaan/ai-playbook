@@ -36,16 +36,125 @@
       "path": "articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md",
       "date": "2026-10-30",
       "status": "Living",
-      "patterns": [1, 2, 3, 4, 5, 6],
-      "terms": ["ai-agent", "personal-agent", "github", "repository", "commit", "context", "side-chat", "orchestrator"]
+      "patterns": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "terms": [
+        "ai-agent",
+        "personal-agent",
+        "github",
+        "repository",
+        "commit",
+        "context",
+        "side-chat",
+        "orchestrator"
+      ]
     }
   ],
   "planned_articles": [
-    { "number": 2, "title": "Giving the Agent a Memory It Can Keep", "series": 1 },
-    { "number": 3, "title": "Separating Memory from Management", "series": 1 },
-    { "number": 4, "title": "One Room per Project", "series": 1 },
-    { "number": 5, "title": "Guardrails That Keep You in Charge", "series": 1 },
-    { "number": 6, "title": "What Breaks", "series": 1 }
+    {
+      "number": 2,
+      "title": "Giving the Agent a Memory It Can Keep",
+      "series": 1
+    },
+    {
+      "number": 3,
+      "title": "Separating Memory from Management",
+      "series": 1
+    },
+    {
+      "number": 4,
+      "title": "One Room per Project",
+      "series": 1
+    },
+    {
+      "number": 5,
+      "title": "Guardrails That Keep You in Charge",
+      "series": 1
+    },
+    {
+      "number": 6,
+      "title": "What Breaks",
+      "series": 1
+    }
   ],
-  "skills": []
+  "skills": [],
+  "learning_path": "learning-path.md",
+  "resources": [
+    {
+      "name": "AI for Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "category": "foundations",
+      "level": "beginner",
+      "added_by": "paul"
+    },
+    {
+      "name": "Generative AI for Beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "category": "foundations",
+      "level": "beginner",
+      "added_by": "agent"
+    },
+    {
+      "name": "Dive into LLMs",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "category": "foundations",
+      "level": "beginner",
+      "added_by": "paul"
+    },
+    {
+      "name": "AI Agent Book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "category": "agent-concepts",
+      "level": "builder",
+      "added_by": "paul"
+    },
+    {
+      "name": "OpenAI Agents SDK",
+      "url": "https://github.com/openai/openai-agents-python",
+      "category": "frameworks",
+      "level": "builder",
+      "added_by": "paul"
+    },
+    {
+      "name": "LangGraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "category": "frameworks",
+      "level": "builder",
+      "added_by": "paul"
+    },
+    {
+      "name": "OpenAI Cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "category": "frameworks",
+      "level": "builder",
+      "added_by": "agent"
+    },
+    {
+      "name": "AnythingLLM",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "category": "tools-and-connection",
+      "level": "beginner",
+      "added_by": "paul"
+    },
+    {
+      "name": "Model Context Protocol Servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "category": "tools-and-connection",
+      "level": "builder",
+      "added_by": "agent"
+    },
+    {
+      "name": "Agent Skills",
+      "url": "https://github.com/anthropics/skills",
+      "category": "skills",
+      "level": "builder",
+      "added_by": "agent"
+    }
+  ]
 }
