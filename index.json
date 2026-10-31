@@ -234,13 +234,16 @@
       "path": "basics/what-is-an-embedding.md",
       "stage": 4,
       "track": "concepts"
+    },
+    {
+      "slug": "what-is-ai-infrastructure",
+      "title": "What Is AI Infrastructure?",
+      "path": "basics/what-is-ai-infrastructure.md",
+      "stage": 4,
+      "track": "concepts"
     }
   ],
   "planned_basics": [
-    {
-      "slug": "what-is-ai-infrastructure",
-      "title": "What Is AI Infrastructure?"
-    },
     {
       "slug": "what-is-inference",
       "title": "What Is Inference?"

@@ -81,6 +81,10 @@ reuse.
   underneath it.
 - Read [What is an embedding?](basics/what-is-an-embedding.md) — the numbers
   that make "find by meaning" work, and the step underneath RAG's retrieval.
+- See the layer underneath it all in
+  [What is AI infrastructure?](basics/what-is-ai-infrastructure.md) — the
+  chips, data centers, and hosted services every model runs on, and why
+  that layer decides cost, speed, and how much you actually control.
 - Meet [Obsidian](basics/what-is-obsidian.md) — the local, files-you-own
   knowledge base that Series 3 builds ministry operations on.
 - Learn how agents reach the world through **MCP servers**.
