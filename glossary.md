@@ -35,6 +35,11 @@ can hold in view at one time while it answers; anything outside it might
 as well not exist for that answer. Full article:
 [What is a context window?](basics/what-is-a-context-window.md)
 
+**Embedding** — A list of numbers that stands for a piece of text by its
+meaning, so that pieces with similar meanings get similar numbers and a
+computer can find things by meaning instead of by matching exact words.
+Full article: [What is an embedding?](basics/what-is-an-embedding.md)
+
 **GitHub** — A website that stores files — especially text and code — with a
 complete history of every change. It is the filing cabinet underneath this
 whole playbook: the files live there, owned by their author, and both humans
