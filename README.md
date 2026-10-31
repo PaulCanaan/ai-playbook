@@ -74,6 +74,15 @@ Reusable, step-by-step capabilities that came out of this journey will be
 published in [skills/](skills/README.md), one folder each, when they are
 ready to share.
 
+## Keep learning — the knowledge base
+
+This playbook grows a library. The **[learning path](learning-path.md)**
+arranges everything into stages — from "what is an agent?" to building,
+connecting, and packaging skills of your own — and the
+**[resources library](resources/README.md)** holds the books, courses, and
+repositories each stage draws on, every one annotated with why it earned
+its place.
+
 ## How this repository is maintained
 
 It is **AI-native**: AI agents maintain and improve it under the owner's

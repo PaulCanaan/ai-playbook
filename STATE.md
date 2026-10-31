@@ -15,6 +15,9 @@ practical.*
   articles yet. Series folders are created when their first article lands.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
+- **Knowledge base:** resources/README.md holds the curated library (10
+  resources — six seeded by Paul, four added by his agent) and
+  learning-path.md arranges them into Stages 0–4 for future readers.
 - The repository is private; all content is written public-safe so it can
   be shared later without a rewrite.
 - **Maintenance experiment (2026-10-30):** agents may merge pull requests
@@ -38,3 +41,7 @@ practical.*
 - **2026-10-30** — Paul set the content boundary: journey record, general
   rules, and shareable skills only — no personal information, no project
   specifics. Recorded as the Scope section in AGENTS.md (PR #2).
+- **2026-10-30** — Knowledge base added at Paul's direction: the resources
+  library (his six repositories plus four agent-chosen additions, each
+  verified live and annotated) and a five-stage learning path for future
+  users (PR #3).

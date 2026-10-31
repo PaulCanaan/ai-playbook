@@ -82,6 +82,7 @@ reuse (set by Paul, 2026-10-30):
 4. Every term an article lists in its front matter exists in glossary.md.
 5. Every pattern an article claims is recorded in patterns.md, linked back.
 6. STATE.md reflects the new state of the repository.
+7. Resource entries in resources/README.md and index.json agree.
 
 ## Where things live
 
@@ -91,4 +92,6 @@ reuse (set by Paul, 2026-10-30):
 | Skills | `skills/<skill-name>/` (SKILL.md + README.md) |
 | Templates | `templates/` |
 | Principles | `patterns.md` |
+| Resource library | `resources/` |
+| Learning path | `learning-path.md` |
 | Terms | `glossary.md` |
