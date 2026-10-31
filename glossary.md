@@ -8,6 +8,11 @@ them — never in bulk, ahead of need.
 files, using tools, and carrying context between tasks. More than a chatbot
 that answers one question and forgets it.
 
+**Agent loop** — The repeating cycle an agent works in: observe the
+current state, decide the next step, act (often by calling a tool), and
+observe the result — until the task is done or a rule stops it. Full
+article: [What is an agent loop?](basics/what-is-an-agent-loop.md)
+
 **API** — A defined set of requests one program can make of another, and
 the answers it can expect back — the menu, not the kitchen. Full article:
 [What is an API?](basics/what-is-an-api.md)
@@ -24,6 +29,11 @@ can be revisited.
 moment it acts: your identity, preferences, project state, and the
 conversation so far. The quality of the context decides the quality of the
 work.
+
+**Context window** — The amount of text, counted in tokens, that a model
+can hold in view at one time while it answers; anything outside it might
+as well not exist for that answer. Full article:
+[What is a context window?](basics/what-is-a-context-window.md)
 
 **GitHub** — A website that stores files — especially text and code — with a
 complete history of every change. It is the filing cabinet underneath this
@@ -64,6 +74,11 @@ on.
 **Prompt** — What you type (or say) to an AI to ask for something. In this
 playbook the word matters less than people think: durable context and clear
 structure do more work than clever prompt wording.
+
+**RAG** — Retrieval-augmented generation: before answering, a system
+retrieves relevant passages from a document collection and puts them in
+the context window, so the model answers from those passages instead of
+from memory alone. Full article: [What is RAG?](basics/what-is-rag.md)
 
 **Repository** — One stored project on GitHub: a folder of files plus its
 entire history. Often shortened to "repo."

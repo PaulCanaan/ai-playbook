@@ -16,9 +16,12 @@ avoid.
 | --- | --- |
 | [What is an LLM?](what-is-an-llm.md) | The prediction engine underneath every agent |
 | [What is a token?](what-is-a-token.md) | The unit everything is measured in |
+| [What is a context window?](what-is-a-context-window.md) | How much a model can hold in view at once |
 | [What is a CLI?](what-is-a-cli.md) | Controlling a computer with typed commands |
 | [What is an API?](what-is-an-api.md) | How programs ask each other for things |
 | [What is MCP?](what-is-mcp.md) | The standard plug for connecting agents to tools |
+| [What is an agent loop?](what-is-an-agent-loop.md) | The observe–decide–act cycle that makes an agent |
+| [What is RAG?](what-is-rag.md) | Answering from retrieved documents instead of memory alone |
 
 ## Tools
 
@@ -29,9 +32,9 @@ avoid.
 
 ## Planned next
 
-- What is a context window?
-- What is RAG? (retrieval-augmented generation)
-- What is an agent loop?
+- What is an embedding? (how "find by meaning" works)
+- What is AI infrastructure? (the layer everything runs on)
+- What is inference?
 
 *Basics follow [templates/basics-template.md](../templates/basics-template.md):
 one sentence first, then plain words, a tiny example, why it matters here,

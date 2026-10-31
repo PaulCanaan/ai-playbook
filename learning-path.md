@@ -27,8 +27,9 @@ week — email, a summary, a plan.
 
 **For:** what a large language model actually is and does.
 
-- Read the five [basics](basics/README.md) first — an hour that makes
-  everything after it easier: LLM, token, CLI, API, MCP — plus
+- Read the [basics](basics/README.md) first — an hour that makes
+  everything after it easier: LLM, token,
+  [context window](basics/what-is-a-context-window.md), CLI, API, MCP — plus
   [What is GitHub?](basics/what-is-github.md), since this playbook lives
   there.
 - Work through **AI for Beginners** at your own pace.
@@ -44,6 +45,8 @@ you — and what it is *not* doing.
 
 **For:** how an assistant becomes an agent: loops, tools, memory, planning.
 
+- Start with [What is an agent loop?](basics/what-is-an-agent-loop.md) —
+  the cycle this whole stage is about.
 - Read the **AI Agent Book**, a chapter at a time, with its code.
 - Re-read this playbook's Series 1 as you go — the story and the theory
   illuminate each other.
@@ -73,7 +76,9 @@ wrong.
 **For:** the layer this playbook itself is about — context, connection, and
 reuse.
 
-- Get workspace intuition from **AnythingLLM** with your own documents.
+- Get workspace intuition from **AnythingLLM** with your own documents —
+  and read [What is RAG?](basics/what-is-rag.md) for the technique
+  underneath it.
 - Meet [Obsidian](basics/what-is-obsidian.md) — the local, files-you-own
   knowledge base that Series 3 builds ministry operations on.
 - Learn how agents reach the world through **MCP servers**.

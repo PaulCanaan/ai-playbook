@@ -173,6 +173,13 @@
       "track": "concepts"
     },
     {
+      "slug": "what-is-a-context-window",
+      "title": "What Is a Context Window?",
+      "path": "basics/what-is-a-context-window.md",
+      "stage": 1,
+      "track": "concepts"
+    },
+    {
       "slug": "what-is-a-cli",
       "title": "What Is a CLI?",
       "path": "basics/what-is-a-cli.md",
@@ -194,6 +201,20 @@
       "track": "concepts"
     },
     {
+      "slug": "what-is-an-agent-loop",
+      "title": "What Is an Agent Loop?",
+      "path": "basics/what-is-an-agent-loop.md",
+      "stage": 2,
+      "track": "concepts"
+    },
+    {
+      "slug": "what-is-rag",
+      "title": "What Is RAG?",
+      "path": "basics/what-is-rag.md",
+      "stage": 4,
+      "track": "concepts"
+    },
+    {
       "slug": "what-is-github",
       "title": "What Is GitHub?",
       "path": "basics/what-is-github.md",
@@ -210,16 +231,16 @@
   ],
   "planned_basics": [
     {
-      "slug": "what-is-a-context-window",
-      "title": "What Is a Context Window?"
+      "slug": "what-is-an-embedding",
+      "title": "What Is an Embedding?"
     },
     {
-      "slug": "what-is-rag",
-      "title": "What Is RAG?"
+      "slug": "what-is-ai-infrastructure",
+      "title": "What Is AI Infrastructure?"
     },
     {
-      "slug": "what-is-an-agent-loop",
-      "title": "What Is an Agent Loop?"
+      "slug": "what-is-inference",
+      "title": "What Is Inference?"
     }
   ]
 }
