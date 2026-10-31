@@ -28,7 +28,8 @@ work.
 **GitHub** — A website that stores files — especially text and code — with a
 complete history of every change. It is the filing cabinet underneath this
 whole playbook: the files live there, owned by their author, and both humans
-and AI agents can work on them safely.
+and AI agents can work on them safely. Full article:
+[What is GitHub?](basics/what-is-github.md)
 
 **LLM** — A large language model: a program trained on enormous amounts
 of text to predict what should come next, and the engine underneath every
@@ -45,6 +46,10 @@ applications to tools and data through one common plug. Full article:
 **Orchestrator** — The main chat's role in a multi-room setup: it routes
 each piece of work to the right project room, keeps the cross-project
 decisions, and reviews the whole picture on a rhythm.
+
+**Obsidian** — An app for notes and knowledge that keeps everything as
+plain Markdown files in a folder on your own computer, linked into a web
+you own outright. Full article: [What is Obsidian?](basics/what-is-obsidian.md)
 
 **Personal agent** — An AI agent set up for one person. It knows your work,
 your preferences, and your projects, and acts as your ongoing assistant

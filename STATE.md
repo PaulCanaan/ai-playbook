@@ -15,10 +15,10 @@ practical.*
   articles yet. Series folders are created when their first article lands.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
-- **Basics:** the concept layer is live — basics/ holds five articles
-  (LLM, token, CLI, API, MCP) plus an index; the glossary and learning
-  path link to them. Three more are planned (context window, RAG, agent
-  loop).
+- **Basics:** the concept layer is live — basics/ holds seven articles
+  in two tracks (concepts: LLM, token, CLI, API, MCP; tools: GitHub,
+  Obsidian) plus an index; the glossary and learning path link to them.
+  Three more are planned (context window, RAG, agent loop).
 - **Knowledge base:** resources/README.md holds the curated library (10
   resources — six seeded by Paul, four added by his agent) and
   learning-path.md arranges them into Stages 0–4 for future readers.
@@ -45,6 +45,9 @@ practical.*
 - **2026-10-30** — Paul set the content boundary: journey record, general
   rules, and shareable skills only — no personal information, no project
   specifics. Recorded as the Scope section in AGENTS.md (PR #2).
+- **2026-10-30** — Basics gained a tools track at Paul's direction:
+  What is GitHub? and What is Obsidian?, wired into the glossary,
+  learning path (Stages 1 and 4), and index (PR #5).
 - **2026-10-30** — Basics batch 1 written at Paul's direction: five
   concept articles (LLM, token, CLI, API, MCP) in a new basics/ layer,
   with a basics template, glossary entries, and links wired from the
