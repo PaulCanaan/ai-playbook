@@ -162,31 +162,50 @@
       "slug": "what-is-an-llm",
       "title": "What Is an LLM?",
       "path": "basics/what-is-an-llm.md",
-      "stage": 1
+      "stage": 1,
+      "track": "concepts"
     },
     {
       "slug": "what-is-a-token",
       "title": "What Is a Token?",
       "path": "basics/what-is-a-token.md",
-      "stage": 1
+      "stage": 1,
+      "track": "concepts"
     },
     {
       "slug": "what-is-a-cli",
       "title": "What Is a CLI?",
       "path": "basics/what-is-a-cli.md",
-      "stage": 1
+      "stage": 1,
+      "track": "concepts"
     },
     {
       "slug": "what-is-an-api",
       "title": "What Is an API?",
       "path": "basics/what-is-an-api.md",
-      "stage": 1
+      "stage": 1,
+      "track": "concepts"
     },
     {
       "slug": "what-is-mcp",
       "title": "What Is MCP?",
       "path": "basics/what-is-mcp.md",
-      "stage": 1
+      "stage": 1,
+      "track": "concepts"
+    },
+    {
+      "slug": "what-is-github",
+      "title": "What Is GitHub?",
+      "path": "basics/what-is-github.md",
+      "stage": 1,
+      "track": "tools"
+    },
+    {
+      "slug": "what-is-obsidian",
+      "title": "What Is Obsidian?",
+      "path": "basics/what-is-obsidian.md",
+      "stage": 4,
+      "track": "tools"
     }
   ],
   "planned_basics": [

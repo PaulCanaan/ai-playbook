@@ -28,7 +28,9 @@ week — email, a summary, a plan.
 **For:** what a large language model actually is and does.
 
 - Read the five [basics](basics/README.md) first — an hour that makes
-  everything after it easier: LLM, token, CLI, API, MCP.
+  everything after it easier: LLM, token, CLI, API, MCP — plus
+  [What is GitHub?](basics/what-is-github.md), since this playbook lives
+  there.
 - Work through **AI for Beginners** at your own pace.
 - Add **Generative AI for Beginners** for the applied side.
 - If you like learning by code, run the notebooks in **Dive into LLMs**.
@@ -72,6 +74,8 @@ wrong.
 reuse.
 
 - Get workspace intuition from **AnythingLLM** with your own documents.
+- Meet [Obsidian](basics/what-is-obsidian.md) — the local, files-you-own
+  knowledge base that Series 3 builds ministry operations on.
 - Learn how agents reach the world through **MCP servers**.
 - Study how capabilities are packaged in **Agent Skills** — then return to
   this playbook's Series 2–4 (project management, ministry operations,
