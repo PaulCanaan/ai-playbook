@@ -8,6 +8,14 @@ them — never in bulk, ahead of need.
 files, using tools, and carrying context between tasks. More than a chatbot
 that answers one question and forgets it.
 
+**API** — A defined set of requests one program can make of another, and
+the answers it can expect back — the menu, not the kitchen. Full article:
+[What is an API?](basics/what-is-an-api.md)
+
+**CLI** — A command line interface: controlling a computer by typing
+precise text commands instead of clicking. Full article:
+[What is a CLI?](basics/what-is-a-cli.md)
+
 **Commit** — One saved change to a repository, with a short note saying what
 changed and why. A repository's history is a chain of commits; any of them
 can be revisited.
@@ -22,9 +30,17 @@ complete history of every change. It is the filing cabinet underneath this
 whole playbook: the files live there, owned by their author, and both humans
 and AI agents can work on them safely.
 
+**LLM** — A large language model: a program trained on enormous amounts
+of text to predict what should come next, and the engine underneath every
+agent in this playbook. Full article: [What is an LLM?](basics/what-is-an-llm.md)
+
 **Markdown** — A way of writing formatted text with simple characters —
 `#` for headings, `-` for lists — in plain-text files any program can read.
 This playbook, and the context files it describes, are written in Markdown.
+
+**MCP** — The Model Context Protocol: an open standard for connecting AI
+applications to tools and data through one common plug. Full article:
+[What is MCP?](basics/what-is-mcp.md)
 
 **Orchestrator** — The main chat's role in a multi-room setup: it routes
 each piece of work to the right project room, keeps the cross-project
@@ -55,3 +71,7 @@ does not share context with the other rooms.
 teaches an AI agent how to do one job well, the same way every time.
 Articles in this playbook tell the story of a lesson; a skill is the lesson
 turned into a tool.
+
+**Token** — The small chunk of text — often part of a word — that an LLM
+reads and writes one at a time; the unit context, cost, and speed are
+measured in. Full article: [What is a token?](basics/what-is-a-token.md)

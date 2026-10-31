@@ -17,8 +17,9 @@ words, assuming nothing — not even what GitHub is.
 3. **Short on time?** Read [patterns.md](patterns.md) — every principle the
    journey has produced so far, on one page.
 
-New to a word? The [glossary](glossary.md) defines every term in plain
-language.
+New to a word? The [basics](basics/README.md) explain the core concepts
+in short articles, and the [glossary](glossary.md) defines every term in
+plain language.
 
 ## The whole picture, on one page
 

@@ -15,6 +15,8 @@ next one. You can stop after any stage and already be ahead.
 
 - Read [Article 001 — Onboarding a Personal Agent](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md).
 - Skim the [glossary](glossary.md) and the [patterns](patterns.md).
+- Whenever a word stops you, dip into the [basics](basics/README.md) —
+  one short article per core concept.
 
 **Practice:** start one real, reversible task with any AI assistant this
 week — email, a summary, a plan.
@@ -25,6 +27,8 @@ week — email, a summary, a plan.
 
 **For:** what a large language model actually is and does.
 
+- Read the five [basics](basics/README.md) first — an hour that makes
+  everything after it easier: LLM, token, CLI, API, MCP.
 - Work through **AI for Beginners** at your own pace.
 - Add **Generative AI for Beginners** for the applied side.
 - If you like learning by code, run the notebooks in **Dive into LLMs**.

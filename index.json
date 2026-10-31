@@ -156,5 +156,51 @@
       "level": "builder",
       "added_by": "agent"
     }
+  ],
+  "basics": [
+    {
+      "slug": "what-is-an-llm",
+      "title": "What Is an LLM?",
+      "path": "basics/what-is-an-llm.md",
+      "stage": 1
+    },
+    {
+      "slug": "what-is-a-token",
+      "title": "What Is a Token?",
+      "path": "basics/what-is-a-token.md",
+      "stage": 1
+    },
+    {
+      "slug": "what-is-a-cli",
+      "title": "What Is a CLI?",
+      "path": "basics/what-is-a-cli.md",
+      "stage": 1
+    },
+    {
+      "slug": "what-is-an-api",
+      "title": "What Is an API?",
+      "path": "basics/what-is-an-api.md",
+      "stage": 1
+    },
+    {
+      "slug": "what-is-mcp",
+      "title": "What Is MCP?",
+      "path": "basics/what-is-mcp.md",
+      "stage": 1
+    }
+  ],
+  "planned_basics": [
+    {
+      "slug": "what-is-a-context-window",
+      "title": "What Is a Context Window?"
+    },
+    {
+      "slug": "what-is-rag",
+      "title": "What Is RAG?"
+    },
+    {
+      "slug": "what-is-an-agent-loop",
+      "title": "What Is an Agent Loop?"
+    }
   ]
 }

@@ -46,6 +46,9 @@ reuse (set by Paul, 2026-10-30):
   Articles are cited by number everywhere; index.json maps number to path.
 - **Front matter is required** in every article (see
   templates/article-template.md). Keep it accurate when an article changes.
+- **Link, don't re-explain.** When an article needs a concept that has
+  a basics article, link to it. The glossary gives the two-line version
+  and links to basics for the full treatment.
 - **index.json is canonical.** Any commit that adds, moves, renames, or
   changes an article, series, or skill updates index.json in the same commit.
   The README table of contents is generated from index.json — update it in
@@ -92,6 +95,7 @@ reuse (set by Paul, 2026-10-30):
 | Skills | `skills/<skill-name>/` (SKILL.md + README.md) |
 | Templates | `templates/` |
 | Principles | `patterns.md` |
+| Concept basics | `basics/` (slug-named; templates/basics-template.md) |
 | Resource library | `resources/` |
 | Learning path | `learning-path.md` |
 | Terms | `glossary.md` |
