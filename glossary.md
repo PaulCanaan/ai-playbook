@@ -26,6 +26,12 @@ the answers it can expect back — the menu, not the kitchen. Full article:
 precise text commands instead of clicking. Full article:
 [What is a CLI?](basics/what-is-a-cli.md)
 
+**Coding agent** — An AI agent that works on your own computer
+through a command line: it reads and edits files, runs tools, and does
+the mechanical parts of a job while a person directs it and approves
+the steps that cannot be undone. Claude Code and Codex are the
+examples used in this playbook.
+
 **Commit** — One saved change to a repository, with a short note saying what
 changed and why. A repository's history is a chain of commits; any of them
 can be revisited.

@@ -1,7 +1,7 @@
 {
   "name": "ai-playbook",
   "version": 1,
-  "updated": "2026-10-30",
+  "updated": "2026-11-03",
   "series": [
     {
       "number": 1,
@@ -53,6 +53,27 @@
         "context",
         "side-chat",
         "orchestrator"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "Onboarding Someone Else",
+      "series": 1,
+      "path": "articles/series-1-the-personal-agent/007-onboarding-someone-else.md",
+      "date": "2026-11-03",
+      "status": "Living",
+      "patterns": [
+        1,
+        4,
+        5
+      ],
+      "terms": [
+        "personal-agent",
+        "personal-context-os",
+        "coding-agent",
+        "skill",
+        "context",
+        "commit"
       ]
     }
   ],

@@ -10,7 +10,7 @@ journey.
 Keep the canonical version of what your agent knows in files you control —
 plain text, in a repository with history — so it is portable across tools
 and models, and never hostage to one app.
-*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md).*
+*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md) and [Article 007](articles/series-1-the-personal-agent/007-onboarding-someone-else.md).*
 
 ## Pattern 2 — Separate the layers
 
@@ -30,7 +30,7 @@ rooms.
 
 The agent drafts, researches, and prepares. Sending, buying, publishing,
 and committing stay behind the owner's explicit approval.
-*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md).*
+*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md) and [Article 007](articles/series-1-the-personal-agent/007-onboarding-someone-else.md).*
 
 ## Pattern 5 — Minimum viable complexity
 
@@ -38,7 +38,7 @@ A system that adds management burden has failed, however elegant it looks.
 Every layer, file, and process must earn its maintenance cost. (A
 twelve-part write-back scheme for the Context OS was retired on 2026-10-28
 for exactly this reason.)
-*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md).*
+*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md) and [Article 007](articles/series-1-the-personal-agent/007-onboarding-someone-else.md).*
 
 ## Pattern 6 — Verify live facts before building on them
 
