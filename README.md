@@ -51,6 +51,7 @@ Onboarding an agent and building the system around it.
 | 004 | One Room per Project | Planned |
 | 005 | Guardrails That Keep You in Charge | Planned |
 | 006 | What Breaks | Planned |
+| 007 | [Onboarding Someone Else](articles/series-1-the-personal-agent/007-onboarding-someone-else.md) | Living |
 
 ### Series 2 — Your Agent, Your Project Manager
 

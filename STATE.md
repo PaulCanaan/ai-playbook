@@ -4,13 +4,15 @@
 working session, in the same commit as the work it describes when
 practical.*
 
-## Current state (2026-10-30)
+## Current state (2026-11-03)
 
 - Repository created by Paul on 2026-10-30 and seeded the same day with the
   v3 structure he approved: frame (AGENTS.md, README.md, index.json,
   templates), Article 001, glossary, patterns, and the skills shelf.
 - **Series 1 — The Personal Agent:** Article 001 published (Living).
-  Articles 002–006 planned (titles in index.json).
+  Article 007 (Onboarding Someone Else) published out of order on
+  2026-11-03 — a second person onboarded, written the week it
+  happened. Articles 002–006 remain planned (titles in index.json).
 - **Series 2–4:** named and described in index.json and the README; no
   articles yet. Series folders are created when their first article lands.
 - **Skills:** none published. skills/README.md explains the shelf and the
@@ -81,3 +83,12 @@ practical.*
   basics index, and learning path (Stage 4); index.json moved AI
   infrastructure from planned_basics to basics; inference remains as
   the last planned basic.
+
+- **2026-11-03** — Article 007, Onboarding Someone Else (Series 1),
+  written at Paul's direction from the week's real work: helping a
+  second person start a Personal Context OS, onboard their own
+  personal agent, set up a coding agent, and record a first skill
+  (a sermon-clip workflow). Published out of order — Articles
+  002–006 remain planned — and the queue is unchanged: inference
+  is still the last planned basic. Glossary gained Coding agent;
+  Patterns 1, 4, and 5 are now also proved by Article 007.
