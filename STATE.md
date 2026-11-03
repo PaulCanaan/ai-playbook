@@ -20,9 +20,10 @@ practical.*
 - **Basics:** the concept layer is live — basics/ holds twelve articles
   in two tracks (concepts: LLM, token, context window, CLI, API, MCP,
   agent loop, RAG, embedding, AI infrastructure; tools: GitHub, Obsidian)
-  plus an index; the glossary and learning path link to them. One more
-  is planned (inference — the last of the infrastructure cluster Paul
-  pointed to on 2026-10-30).
+  plus an index; the glossary and learning path link to them. Two more
+  are planned: inference (the last of the infrastructure cluster Paul
+  pointed to on 2026-10-30), then What is an IDE? (tools track, queued
+  at Paul's direction on 2026-11-03).
 - **Knowledge base:** resources/README.md holds the curated library (10
   resources — six seeded by Paul, four added by his agent) and
   learning-path.md arranges them into Stages 0–4 for future readers.
@@ -33,7 +34,7 @@ practical.*
 
 ## Next candidates
 
-- Basics batch 3 continues — inference, the last planned basic. The
+- The basics queue runs inference next, then What is an IDE? The
   weekly working session for this repository is live (Tuesdays, approved
   by Paul on 2026-10-30); its runs have shipped What is an embedding?
   and What is AI infrastructure?
@@ -92,3 +93,6 @@ practical.*
   002–006 remain planned — and the queue is unchanged: inference
   is still the last planned basic. Glossary gained Coding agent;
   Patterns 1, 4, and 5 are now also proved by Article 007.
+- **2026-11-03** — What is an IDE? queued as a planned basic (tools
+  track) at Paul's direction, behind inference in planned_basics.
+  Nothing written yet; the weekly session ships it after inference.
