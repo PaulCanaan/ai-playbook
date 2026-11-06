@@ -4,7 +4,7 @@
 working session, in the same commit as the work it describes when
 practical.*
 
-## Current state (2026-11-03)
+## Current state (2026-11-06)
 
 - Repository created by Paul on 2026-10-30 and seeded the same day with the
   v3 structure he approved: frame (AGENTS.md, README.md, index.json,
@@ -14,7 +14,9 @@ practical.*
   2026-11-03 — a second person onboarded, written the week it
   happened. Articles 002–006 remain planned (titles in index.json).
 - **Series 2–4:** named and described in index.json and the README; no
-  articles yet. Series folders are created when their first article lands.
+  articles published yet. The first Series 2 article is now planned
+  (Article 008, title in index.json). Series folders are created when
+  their first article lands.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
 - **Basics:** the concept layer is live — basics/ holds twelve articles
@@ -34,7 +36,11 @@ practical.*
 
 ## Next candidates
 
-- The basics queue runs inference next, then What is an IDE? The
+- The basics queue runs inference next, then What is an IDE? Behind
+  them, the next journey article in the weekly queue is Article 008 —
+  From Records to Workboards (Series 2), queued at Paul's direction on
+  2026-11-06; the story behind it is already on record at the level of
+  method. The
   weekly working session for this repository is live (Tuesdays, approved
   by Paul on 2026-10-30); its runs have shipped What is an embedding?
   and What is AI infrastructure?
@@ -96,3 +102,7 @@ practical.*
 - **2026-11-03** — What is an IDE? queued as a planned basic (tools
   track) at Paul's direction, behind inference in planned_basics.
   Nothing written yet; the weekly session ships it after inference.
+- **2026-11-06** — Article 008, From Records to Workboards (Series 2),
+  queued as a planned article at Paul's direction, behind inference
+  and What is an IDE? in the weekly queue. Queue-only change: no
+  article written, nothing else moved.
