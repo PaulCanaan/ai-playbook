@@ -56,8 +56,11 @@ Onboarding an agent and building the system around it.
 ### Series 2 — Your Agent, Your Project Manager
 
 The orchestrator discipline: routing work, project rooms, tracked goals,
-weekly reviews, gates, and handing work to other agents. *(Articles to
-come.)*
+weekly reviews, gates, and handing work to other agents.
+
+| # | Article | Status |
+| --- | --- | --- |
+| 008 | From Records to Workboards | Planned |
 
 ### Series 3 — AI for Ministry Operations
 

@@ -1,7 +1,7 @@
 {
   "name": "ai-playbook",
   "version": 1,
-  "updated": "2026-11-03",
+  "updated": "2026-11-06",
   "series": [
     {
       "number": 1,
@@ -102,6 +102,11 @@
       "number": 6,
       "title": "What Breaks",
       "series": 1
+    },
+    {
+      "number": 8,
+      "title": "From Records to Workboards",
+      "series": 2
     }
   ],
   "skills": [],
