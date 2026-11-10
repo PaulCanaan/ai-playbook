@@ -24,6 +24,7 @@ avoid.
 | [What is RAG?](what-is-rag.md) | Answering from retrieved documents instead of memory alone |
 | [What is an embedding?](what-is-an-embedding.md) | Finding things by meaning instead of matching words |
 | [What is AI infrastructure?](what-is-ai-infrastructure.md) | The layer everything runs on |
+| [What is inference?](what-is-inference.md) | Running a trained model to get an answer |
 
 ## Tools
 
@@ -34,7 +35,7 @@ avoid.
 
 ## Planned next
 
-- What is inference?
+- What is an IDE?
 
 *Basics follow [templates/basics-template.md](../templates/basics-template.md):
 one sentence first, then plain words, a tiny example, why it matters here,
