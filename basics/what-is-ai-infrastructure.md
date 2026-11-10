@@ -123,9 +123,8 @@ speed limits, and privacy:
 - [What is RAG?](what-is-rag.md) — retrieval over your own documents,
   which also needs somewhere to run: the embeddings are computed and
   stored on the same kind of machinery.
-- What is inference? — planned next in the
-  [basics index](README.md): the act of running a model to get an
-  answer, which is what all this infrastructure is for.
+- [What is inference?](what-is-inference.md) — the act of running a model
+  to get an answer, which is what all this infrastructure is for.
 - [AnythingLLM](../resources/README.md) — the local end of the
   trade-off: retrieval over your own documents, on machines you
   control.

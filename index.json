@@ -1,7 +1,7 @@
 {
   "name": "ai-playbook",
   "version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-10",
   "series": [
     {
       "number": 1,
@@ -19,7 +19,7 @@
       "number": 3,
       "title": "AI for Ministry Operations",
       "folder": "articles/series-3-ai-for-ministry-operations",
-      "description": "Building operations systems for churches, including Obsidian as a ministry knowledge base \u2014 written for other churches to copy."
+      "description": "Building operations systems for churches, including Obsidian as a ministry knowledge base — written for other churches to copy."
     },
     {
       "number": 4,
@@ -267,13 +267,16 @@
       "path": "basics/what-is-ai-infrastructure.md",
       "stage": 4,
       "track": "concepts"
+    },
+    {
+      "slug": "what-is-inference",
+      "title": "What Is Inference?",
+      "path": "basics/what-is-inference.md",
+      "stage": 4,
+      "track": "concepts"
     }
   ],
   "planned_basics": [
-    {
-      "slug": "what-is-inference",
-      "title": "What Is Inference?"
-    },
     {
       "slug": "what-is-an-ide",
       "title": "What Is an IDE?"
