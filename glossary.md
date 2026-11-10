@@ -57,6 +57,11 @@ whole playbook: the files live there, owned by their author, and both humans
 and AI agents can work on them safely. Full article:
 [What is GitHub?](basics/what-is-github.md)
 
+**Inference** — Running a trained model to produce an answer: feeding it
+input and letting it generate output, one token at a time. Training builds
+the model; inference uses it. Full article:
+[What is inference?](basics/what-is-inference.md)
+
 **LLM** — A large language model: a program trained on enormous amounts
 of text to predict what should come next, and the engine underneath every
 agent in this playbook. Full article: [What is an LLM?](basics/what-is-an-llm.md)
@@ -100,8 +105,8 @@ from memory alone. Full article: [What is RAG?](basics/what-is-rag.md)
 entire history. Often shortened to "repo."
 
 **Side chat** — A separate conversation dedicated to one project or area of
-life. It accumulates deep context about its own project and, by design,
-does not share context with the other rooms.
+life. It accumulates deep context about its own project and, by design, does
+not share context with the other rooms.
 
 **Skill** — A reusable, step-by-step capability packaged as files: it
 teaches an AI agent how to do one job well, the same way every time.
