@@ -60,6 +60,8 @@ into that loop.
 
 **For:** turning understanding into running software.
 
+- Set up an [IDE](basics/what-is-an-ide.md) — the workbench where code is
+  written, run, and reviewed, and where coding agents do their work.
 - Start with the **OpenAI Agents SDK** — the smallest path to an agent of
   your own.
 - Keep the **OpenAI Cookbook** open beside you.
