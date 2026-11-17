@@ -57,6 +57,11 @@ whole playbook: the files live there, owned by their author, and both humans
 and AI agents can work on them safely. Full article:
 [What is GitHub?](basics/what-is-github.md)
 
+**IDE** — An integrated development environment: a program that brings
+together a text editor, a file browser, a terminal, and tools for running
+and checking code, so writing software happens in one place. Full article:
+[What is an IDE?](basics/what-is-an-ide.md)
+
 **Inference** — Running a trained model to produce an answer: feeding it
 input and letting it generate output, one token at a time. Training builds
 the model; inference uses it. Full article:

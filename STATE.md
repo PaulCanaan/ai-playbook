@@ -4,7 +4,7 @@
 working session, in the same commit as the work it describes when
 practical.*
 
-## Current state (2026-11-10)
+## Current state (2026-11-17)
 
 - Repository created by Paul on 2026-10-30 and seeded the same day with the
   v3 structure he approved: frame (AGENTS.md, README.md, index.json,
@@ -19,12 +19,11 @@ practical.*
   their first article lands.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
-- **Basics:** the concept layer is live — basics/ holds thirteen articles
+- **Basics:** the concept layer is live — basics/ holds fourteen articles
   in two tracks (concepts: LLM, token, context window, CLI, API, MCP,
-  agent loop, RAG, embedding, AI infrastructure, inference; tools: GitHub, Obsidian)
-  plus an index; the glossary and learning path link to them. One more
-  is planned: What is an IDE? (tools track, queued at Paul's direction
-  on 2026-11-03).
+  agent loop, RAG, embedding, AI infrastructure, inference; tools: GitHub, Obsidian, IDE)
+  plus an index; the glossary and learning path link to them. The planned
+  basics queue is now empty.
 - **Knowledge base:** resources/README.md holds the curated library (10
   resources — six seeded by Paul, four added by his agent) and
   learning-path.md arranges them into Stages 0–4 for future readers.
@@ -35,13 +34,13 @@ practical.*
 
 ## Next candidates
 
-- The basics queue runs What is an IDE? next. Behind it, the next
-  journey article in the weekly queue is Article 008 — From Records to
-  Workboards (Series 2), queued at Paul's direction on 2026-11-06; the
-  story behind it is already on record at the level of method. The
-  weekly working session for this repository is live (Tuesdays, approved
-  by Paul on 2026-10-30); its runs have shipped What is an embedding?,
-  What is AI infrastructure?, and What is inference?
+- The planned basics queue is empty. The next journey article in the
+  weekly queue is Article 008 — From Records to Workboards (Series 2),
+  queued at Paul's direction on 2026-11-06; the story behind it is
+  already on record at the level of method. The weekly working session
+  for this repository is live (Tuesdays, approved by Paul on 2026-10-30);
+  its runs have shipped What is an embedding?, What is AI infrastructure?,
+  What is inference?, and What is an IDE?
 - Article 002 — Giving the Agent a Memory It Can Keep (the Personal
   Context OS story). Awaits Paul's go-ahead and his review of the draft.
 - Articles 003–006 in outline (see the design record in index.json's
@@ -78,9 +77,9 @@ practical.*
 - **2026-10-30** — Weekly working session, first run: What is an
   embedding? written (basics, Stage 4, concepts track), wired into the
   glossary, basics index, and learning path (Stage 4); the RAG article's
-  "Planned" note for embedding updated to a live link; index.json moved
-  embedding from planned_basics to basics; the stale "weekly cadence
-  awaits go-ahead" line corrected to record Paul's 2026-10-30 approval
+  \"Planned\" note for embedding updated to a live link; index.json moved
+  embedding from planned_basics to basics; the stale \"weekly cadence
+  awaits go-ahead\" line corrected to record Paul's 2026-10-30 approval
   and the live Tuesday session.
 
 - **2026-10-30** — Weekly working session: What is AI infrastructure?
@@ -107,6 +106,12 @@ practical.*
 - **2026-11-10** — Weekly working session: What is inference?
   written (basics, Stage 4, concepts track), wired into the
   glossary, basics index, and learning path (Stage 4); the AI
-  infrastructure article's "Planned" note for inference updated to
+  infrastructure article's \"Planned\" note for inference updated to
   a live link; index.json moved inference from planned_basics to
   basics; What is an IDE? remains as the last planned basic.
+- **2026-11-17** — Weekly working session: What is an IDE?
+  written (basics, Stage 3, tools track), wired into the
+  glossary, basics index, and learning path (Stage 3); index.json moved
+  IDE from planned_basics to basics; the planned basics queue is now
+  empty — the next weekly item is Article 008, From Records to
+  Workboards.

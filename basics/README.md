@@ -32,10 +32,7 @@ avoid.
 | --- | --- |
 | [What is GitHub?](what-is-github.md) | The filing cabinet: files you own, with their whole history |
 | [What is Obsidian?](what-is-obsidian.md) | A knowledge base of linked Markdown files on your own machine |
-
-## Planned next
-
-- What is an IDE?
+| [What is an IDE?](what-is-an-ide.md) | The workbench: editor, files, terminal, and run tools in one window |
 
 *Basics follow [templates/basics-template.md](../templates/basics-template.md):
 one sentence first, then plain words, a tiny example, why it matters here,
