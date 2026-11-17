@@ -60,7 +60,7 @@ weekly reviews, gates, and handing work to other agents.
 
 | # | Article | Status |
 | --- | --- | --- |
-| 008 | From Records to Workboards | Planned |
+| 008 | [From Records to Workboards](articles/series-2-your-agent-your-project-manager/008-from-records-to-workboards.md) | Living |
 
 ### Series 3 — AI for Ministry Operations
 

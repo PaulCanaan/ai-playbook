@@ -75,6 +75,23 @@
         "context",
         "commit"
       ]
+    },
+    {
+      "number": 8,
+      "title": "From Records to Workboards",
+      "series": 2,
+      "path": "articles/series-2-your-agent-your-project-manager/008-from-records-to-workboards.md",
+      "date": "2026-11-17",
+      "status": "Living",
+      "patterns": [
+        1,
+        5
+      ],
+      "terms": [
+        "workboard",
+        "dashboard",
+        "kanban"
+      ]
     }
   ],
   "planned_articles": [
@@ -102,11 +119,6 @@
       "number": 6,
       "title": "What Breaks",
       "series": 1
-    },
-    {
-      "number": 8,
-      "title": "From Records to Workboards",
-      "series": 2
     }
   ],
   "skills": [],
