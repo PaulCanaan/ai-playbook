@@ -13,10 +13,10 @@ practical.*
   Article 007 (Onboarding Someone Else) published out of order on
   2026-11-03 — a second person onboarded, written the week it
   happened. Articles 002–006 remain planned (titles in index.json).
-- **Series 2–4:** named and described in index.json and the README; no
-  articles published yet. The first Series 2 article is now planned
-  (Article 008, title in index.json). Series folders are created when
-  their first article lands.
+- **Series 2–4:** named and described in index.json and the README.
+  Series 2 has its first article: Article 008 (From Records to
+  Workboards), published 2026-11-17. Series 3 and 4 have no articles
+  published yet.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
 - **Basics:** the concept layer is live — basics/ holds fourteen articles
@@ -34,10 +34,13 @@ practical.*
 
 ## Next candidates
 
-- The planned basics queue is empty. The next journey article in the
-  weekly queue is Article 008 — From Records to Workboards (Series 2),
-  queued at Paul's direction on 2026-11-06; the story behind it is
-  already on record at the level of method. The weekly working session
+- The planned basics queue is empty. Article 008 shipped 2026-11-17,
+  so the weekly queue holds no journey article with source material on
+  record. The next candidates are two stories from 2026-11-13, proposed
+  as the next Series 2 articles after Article 008 — "The Overview That
+  Maintains Itself" and "Planning Events, Learning Preferences" — which
+  still need adding to index.json's planned_articles before a weekly
+  session can ship them. The weekly working session
   for this repository is live (Tuesdays, approved by Paul on 2026-10-30);
   its runs have shipped What is an embedding?, What is AI infrastructure?,
   What is inference?, and What is an IDE?
@@ -115,3 +118,13 @@ practical.*
   IDE from planned_basics to basics; the planned basics queue is now
   empty — the next weekly item is Article 008, From Records to
   Workboards.
+
+- **2026-11-17** — Weekly working session (catch-up run): Article 008,
+  From Records to Workboards (Series 2), written from the story on
+  record in the 2026-11-06 story log — the first Series 2 article;
+  wired into the glossary (workboard, dashboard, kanban), patterns
+  (1 and 5 now also proved by Article 008), the README, and index.json
+  (moved from planned_articles to articles). The planned basics queue
+  stays empty; Articles 002–006 remain planned, and the two
+  2026-11-13 stories remain proposed next Series 2 articles, pending
+  addition to index.json.

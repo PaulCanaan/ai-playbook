@@ -46,6 +46,8 @@ can hold in view at one time while it answers; anything outside it might
 as well not exist for that answer. Full article:
 [What is a context window?](basics/what-is-a-context-window.md)
 
+**Dashboard** — A surface that gathers the numbers for one job — balances, budgets, totals — so the whole picture is visible at a glance. It becomes a workboard when you can act on it, not just read it.
+
 **Embedding** — A list of numbers that stands for a piece of text by its
 meaning, so that pieces with similar meanings get similar numbers and a
 computer can find things by meaning instead of by matching exact words.
@@ -66,6 +68,8 @@ and checking code, so writing software happens in one place. Full article:
 input and letting it generate output, one token at a time. Training builds
 the model; inference uses it. Full article:
 [What is inference?](basics/what-is-inference.md)
+
+**Kanban** — A way of arranging work as cards in columns: each card is one item, each column is a stage. Moving the card moves the work.
 
 **LLM** — A large language model: a program trained on enormous amounts
 of text to predict what should come next, and the engine underneath every
@@ -121,3 +125,5 @@ turned into a tool.
 **Token** — The small chunk of text — often part of a word — that an LLM
 reads and writes one at a time; the unit context, cost, and speed are
 measured in. Full article: [What is a token?](basics/what-is-a-token.md)
+
+**Workboard** — A living surface that shows a project's current state and lets you change it in place: move a card, flip a status, mark a task done — right on the board, without opening another file.
