@@ -1,7 +1,7 @@
 {
   "name": "ai-playbook",
   "version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-24",
   "series": [
     {
       "number": 1,
@@ -119,6 +119,21 @@
       "number": 6,
       "title": "What Breaks",
       "series": 1
+    },
+    {
+      "number": 9,
+      "title": "The Overview That Maintains Itself",
+      "series": 2
+    },
+    {
+      "number": 10,
+      "title": "Planning Events, Learning Preferences",
+      "series": 2
+    },
+    {
+      "number": 11,
+      "title": "How We Build an App on Muse Spaces",
+      "series": 2
     }
   ],
   "skills": [],

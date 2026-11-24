@@ -4,7 +4,7 @@
 working session, in the same commit as the work it describes when
 practical.*
 
-## Current state (2026-11-17)
+## Current state (2026-11-24)
 
 - Repository created by Paul on 2026-10-30 and seeded the same day with the
   v3 structure he approved: frame (AGENTS.md, README.md, index.json,
@@ -15,8 +15,12 @@ practical.*
   happened. Articles 002–006 remain planned (titles in index.json).
 - **Series 2–4:** named and described in index.json and the README.
   Series 2 has its first article: Article 008 (From Records to
-  Workboards), published 2026-11-17. Series 3 and 4 have no articles
-  published yet.
+  Workboards), published 2026-11-17. Three more Series 2 articles are
+  queued in index.json's planned_articles — 009 (The Overview That
+  Maintains Itself), 010 (Planning Events, Learning Preferences), and
+  011 (How We Build an App on Muse Spaces) — all with source material
+  on record in the story log. Series 3 and 4 have no articles published
+  yet.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
 - **Basics:** the concept layer is live — basics/ holds fourteen articles
@@ -34,20 +38,21 @@ practical.*
 
 ## Next candidates
 
-- The planned basics queue is empty. Article 008 shipped 2026-11-17,
-  so the weekly queue holds no journey article with source material on
-  record. The next candidates are two stories from 2026-11-13, proposed
-  as the next Series 2 articles after Article 008 — "The Overview That
-  Maintains Itself" and "Planning Events, Learning Preferences" — which
-  still need adding to index.json's planned_articles before a weekly
-  session can ship them. The weekly working session
+- The planned basics queue is empty. The weekly queue now holds three
+  Series 2 journey articles with source material on record (009–011,
+  queued 2026-11-24 from the story-log entries of 2026-11-13 and
+  2026-11-20). The weekly working session
   for this repository is live (Tuesdays, approved by Paul on 2026-10-30);
   its runs have shipped What is an embedding?, What is AI infrastructure?,
-  What is inference?, and What is an IDE?
+  What is inference?, What is an IDE?, and Article 008.
 - Article 002 — Giving the Agent a Memory It Can Keep (the Personal
   Context OS story). Awaits Paul's go-ahead and his review of the draft.
 - Articles 003–006 in outline (see the design record in index.json's
   planned list).
+- The 2026-11-21 skills batch (twenty-one compact stories, one per skill
+  the owner and agent built together) is queued in the story log, but it
+  has no series, article numbers, or order on record yet — shipping it
+  needs Paul's call on placement.
 
 ## Session log
 
@@ -128,3 +133,10 @@ practical.*
   stays empty; Articles 002–006 remain planned, and the two
   2026-11-13 stories remain proposed next Series 2 articles, pending
   addition to index.json.
+
+- **2026-11-24** — Weekly working session (queue step): Articles 009–011
+  queued as planned Series 2 articles (PR #11 pattern — index.json,
+  README.md, STATE.md only; no article written yet). The Overview That
+  Maintains Itself, Planning Events, Learning Preferences, and How We
+  Build an App on Muse Spaces, in that order, from the story-log entries
+  of 2026-11-13 and 2026-11-20.
