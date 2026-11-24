@@ -94,6 +94,8 @@ decisions, and reviews the whole picture on a rhythm.
 **Obsidian** — An app for notes and knowledge that keeps everything as
 plain Markdown files in a folder on your own computer, linked into a web
 you own outright. Full article: [What is Obsidian?](basics/what-is-obsidian.md)
+**Operations loop** — The cycle an app lives in after it ships: use it, find the failure, write the rule, use it again. The app improves by being used, not by being finished.
+
 
 **Personal agent** — An AI agent set up for one person. It knows your work,
 your preferences, and your projects, and acts as your ongoing assistant
@@ -114,6 +116,8 @@ retrieves relevant passages from a document collection and puts them in
 the context window, so the model answers from those passages instead of
 from memory alone. Full article: [What is RAG?](basics/what-is-rag.md)
 **Refresh rhythm** — The schedule on which a living surface rebuilds itself from its sources: every morning, every hour, or after every change. The rhythm is part of the system, not an afterthought.
+**Read-back** — Verifying a change by reading the live result afterward, not by trusting the success message. The "ok" is a claim; the read-back is the evidence.
+
 
 
 **Repository** — One stored project on GitHub: a folder of files plus its
@@ -124,6 +128,8 @@ entire history. Often shortened to "repo."
 **Side chat** — A separate conversation dedicated to one project or area of
 life. It accumulates deep context about its own project and, by design, does
 not share context with the other rooms.
+**Silent failure** — A step that reports success while changing nothing: a sync that saved nothing, a call that ignored a field. Silent failures are the ones live use exists to catch.
+
 
 **Skill** — A reusable, step-by-step capability packaged as files: it
 teaches an AI agent how to do one job well, the same way every time.

@@ -14,12 +14,12 @@ practical.*
   2026-11-03 — a second person onboarded, written the week it
   happened. Articles 002–006 remain planned (titles in index.json).
 - **Series 2–4:** named and described in index.json and the README.
-  Series 2 has three articles: Article 008 (From Records to
+  Series 2 has four articles: Article 008 (From Records to
   Workboards), published 2026-11-17, Article 009 (The Overview That
-  Maintains Itself), published 2026-11-24, and Article 010 (Planning
-  Events, Learning Preferences), published 2026-11-24. Article 011
-  (How We Build an App on Muse Spaces) remains queued in
-  planned_articles, with source material on record in the story log. Series 3 and 4 have no articles published
+  Maintains Itself), published 2026-11-24, Article 010 (Planning
+  Events, Learning Preferences), published 2026-11-24, and Article
+  011 (How We Build an App on Muse Spaces), published 2026-11-24.
+  The planned journey-article queue is empty again. Series 3 and 4 have no articles published
   yet.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
@@ -38,10 +38,8 @@ practical.*
 
 ## Next candidates
 
-- The planned basics queue is empty. The weekly queue now holds three
-  Series 2 journey articles with source material on record (011,
-  queued 2026-11-24 from the story-log entries of 2026-11-13 and
-  2026-11-20). The weekly working session
+- The planned basics queue is empty. The 009–011 Series 2 set queued 2026-11-24 has now shipped, so the
+  weekly queue holds no journey article with source material on record. The weekly working session
   for this repository is live (Tuesdays, approved by Paul on 2026-10-30);
   its runs have shipped What is an embedding?, What is AI infrastructure?,
   What is inference?, What is an IDE?, and Article 008.
@@ -151,4 +149,10 @@ practical.*
   (Series 2), written from the story on record in the story log;
   wired into the glossary (debrief, standing rule, boundary), patterns
   (1, 4 and 5 now also proved by Article 010), the README,
+  and index.json (moved from planned_articles to articles).
+
+- **2026-11-24** — Weekly working session: Article 011, How We Build an App on Muse Spaces
+  (Series 2), written from the story on record in the story log;
+  wired into the glossary (read back, silent failure, operations loop), patterns
+  (1, 5 and 6 now also proved by Article 011), the README,
   and index.json (moved from planned_articles to articles).

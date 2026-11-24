@@ -10,7 +10,7 @@ journey.
 Keep the canonical version of what your agent knows in files you control —
 plain text, in a repository with history — so it is portable across tools
 and models, and never hostage to one app.
-*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md), [Article 007](articles/series-1-the-personal-agent/007-onboarding-someone-else.md), [Article 008](articles/series-2-your-agent-your-project-manager/008-from-records-to-workboards.md), [Article 009](articles/series-2-your-agent-your-project-manager/009-the-overview-that-maintains-itself.md), and [Article 010](articles/series-2-your-agent-your-project-manager/010-planning-events-learning-preferences.md).*
+*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md), [Article 007](articles/series-1-the-personal-agent/007-onboarding-someone-else.md), [Article 008](articles/series-2-your-agent-your-project-manager/008-from-records-to-workboards.md), [Article 009](articles/series-2-your-agent-your-project-manager/009-the-overview-that-maintains-itself.md), [Article 010](articles/series-2-your-agent-your-project-manager/010-planning-events-learning-preferences.md), and [Article 011](articles/series-2-your-agent-your-project-manager/011-how-we-build-an-app-on-muse-spaces.md).*
 
 ## Pattern 2 — Separate the layers
 
@@ -38,11 +38,11 @@ A system that adds management burden has failed, however elegant it looks.
 Every layer, file, and process must earn its maintenance cost. (A
 twelve-part write-back scheme for the Context OS was retired on 2026-10-28
 for exactly this reason.)
-*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md), [Article 007](articles/series-1-the-personal-agent/007-onboarding-someone-else.md), [Article 008](articles/series-2-your-agent-your-project-manager/008-from-records-to-workboards.md), [Article 009](articles/series-2-your-agent-your-project-manager/009-the-overview-that-maintains-itself.md), and [Article 010](articles/series-2-your-agent-your-project-manager/010-planning-events-learning-preferences.md).*
+*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md), [Article 007](articles/series-1-the-personal-agent/007-onboarding-someone-else.md), [Article 008](articles/series-2-your-agent-your-project-manager/008-from-records-to-workboards.md), [Article 009](articles/series-2-your-agent-your-project-manager/009-the-overview-that-maintains-itself.md), [Article 010](articles/series-2-your-agent-your-project-manager/010-planning-events-learning-preferences.md), and [Article 011](articles/series-2-your-agent-your-project-manager/011-how-we-build-an-app-on-muse-spaces.md).*
 
 ## Pattern 6 — Verify live facts before building on them
 
 Stale records are the most common failure mode. A fact that is old,
 load-bearing, and cheap to check gets checked against the live source
 before anything is built on it.
-*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md) and [Article 009](articles/series-2-your-agent-your-project-manager/009-the-overview-that-maintains-itself.md).*
+*Proved by [Article 001](articles/series-1-the-personal-agent/001-onboarding-a-personal-agent.md), [Article 009](articles/series-2-your-agent-your-project-manager/009-the-overview-that-maintains-itself.md), and [Article 011](articles/series-2-your-agent-your-project-manager/011-how-we-build-an-app-on-muse-spaces.md).*
