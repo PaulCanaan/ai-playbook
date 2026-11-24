@@ -66,4 +66,4 @@ And one thing that is not a pattern yet, only an observation: the surface is whe
 
 ---
 
-*This is the first article in Series 2. The next one is not yet written.*
+*Next in this series: [Article 009 — The Overview That Maintains Itself](009-the-overview-that-maintains-itself.md).*
