@@ -92,6 +92,24 @@
         "dashboard",
         "kanban"
       ]
+    },
+    {
+      "number": 9,
+      "title": "The Overview That Maintains Itself",
+      "series": 2,
+      "path": "articles/series-2-your-agent-your-project-manager/009-the-overview-that-maintains-itself.md",
+      "date": "2026-11-24",
+      "status": "Living",
+      "patterns": [
+        1,
+        5,
+        6
+      ],
+      "terms": [
+        "space",
+        "refresh-rhythm",
+        "rolling-window"
+      ]
     }
   ],
   "planned_articles": [
@@ -119,11 +137,6 @@
       "number": 6,
       "title": "What Breaks",
       "series": 1
-    },
-    {
-      "number": 9,
-      "title": "The Overview That Maintains Itself",
-      "series": 2
     },
     {
       "number": 10,

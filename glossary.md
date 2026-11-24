@@ -109,9 +109,13 @@ structure do more work than clever prompt wording.
 retrieves relevant passages from a document collection and puts them in
 the context window, so the model answers from those passages instead of
 from memory alone. Full article: [What is RAG?](basics/what-is-rag.md)
+**Refresh rhythm** — The schedule on which a living surface rebuilds itself from its sources: every morning, every hour, or after every change. The rhythm is part of the system, not an afterthought.
+
 
 **Repository** — One stored project on GitHub: a folder of files plus its
 entire history. Often shortened to "repo."
+**Rolling window** — A view that always starts today and looks forward a fixed number of days, instead of a fixed calendar week. Today first; the past drops off on its own.
+
 
 **Side chat** — A separate conversation dedicated to one project or area of
 life. It accumulates deep context about its own project and, by design, does
@@ -121,6 +125,8 @@ not share context with the other rooms.
 teaches an AI agent how to do one job well, the same way every time.
 Articles in this playbook tell the story of a lesson; a skill is the lesson
 turned into a tool.
+**Space** — A small web surface built for one job, fed by the records you already keep and rebuilt on a schedule, so it stays current without anyone opening it and editing it by hand.
+
 
 **Token** — The small chunk of text — often part of a word — that an LLM
 reads and writes one at a time; the unit context, cost, and speed are
