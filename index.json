@@ -110,6 +110,24 @@
         "refresh-rhythm",
         "rolling-window"
       ]
+    },
+    {
+      "number": 10,
+      "title": "Planning Events, Learning Preferences",
+      "series": 2,
+      "path": "articles/series-2-your-agent-your-project-manager/010-planning-events-learning-preferences.md",
+      "date": "2026-11-24",
+      "status": "Living",
+      "patterns": [
+        1,
+        4,
+        5
+      ],
+      "terms": [
+        "debrief",
+        "standing-rule",
+        "boundary"
+      ]
     }
   ],
   "planned_articles": [
@@ -137,11 +155,6 @@
       "number": 6,
       "title": "What Breaks",
       "series": 1
-    },
-    {
-      "number": 10,
-      "title": "Planning Events, Learning Preferences",
-      "series": 2
     },
     {
       "number": 11,

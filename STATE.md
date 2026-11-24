@@ -14,12 +14,12 @@ practical.*
   2026-11-03 — a second person onboarded, written the week it
   happened. Articles 002–006 remain planned (titles in index.json).
 - **Series 2–4:** named and described in index.json and the README.
-  Series 2 has two articles: Article 008 (From Records to
-  Workboards), published 2026-11-17, and Article 009 (The Overview
-  That Maintains Itself), published 2026-11-24. Articles 010
-  (Planning Events, Learning Preferences) and 011 (How We Build an
-  App on Muse Spaces) remain queued in planned_articles, with source
-  material on record in the story log. Series 3 and 4 have no articles published
+  Series 2 has three articles: Article 008 (From Records to
+  Workboards), published 2026-11-17, Article 009 (The Overview That
+  Maintains Itself), published 2026-11-24, and Article 010 (Planning
+  Events, Learning Preferences), published 2026-11-24. Article 011
+  (How We Build an App on Muse Spaces) remains queued in
+  planned_articles, with source material on record in the story log. Series 3 and 4 have no articles published
   yet.
 - **Skills:** none published. skills/README.md explains the shelf and the
   publishing rule.
@@ -39,7 +39,7 @@ practical.*
 ## Next candidates
 
 - The planned basics queue is empty. The weekly queue now holds three
-  Series 2 journey articles with source material on record (010–011,
+  Series 2 journey articles with source material on record (011,
   queued 2026-11-24 from the story-log entries of 2026-11-13 and
   2026-11-20). The weekly working session
   for this repository is live (Tuesdays, approved by Paul on 2026-10-30);
@@ -145,4 +145,10 @@ practical.*
   (Series 2), written from the story on record in the story log;
   wired into the glossary (space, refresh rhythm, rolling window), patterns
   (1, 5 and 6 now also proved by Article 009), the README,
+  and index.json (moved from planned_articles to articles).
+
+- **2026-11-24** — Weekly working session: Article 010, Planning Events, Learning Preferences
+  (Series 2), written from the story on record in the story log;
+  wired into the glossary (debrief, standing rule, boundary), patterns
+  (1, 4 and 5 now also proved by Article 010), the README,
   and index.json (moved from planned_articles to articles).
