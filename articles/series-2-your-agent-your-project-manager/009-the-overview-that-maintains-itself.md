@@ -68,4 +68,4 @@ And one thing that is not a pattern yet, only an observation: a surface you have
 
 ---
 
-*The next one is not yet written.*
+*Next in this series: [Article 010 — Planning Events, Learning Preferences](010-planning-events-learning-preferences.md).*

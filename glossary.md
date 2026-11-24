@@ -21,6 +21,8 @@ article: [What is an agent loop?](basics/what-is-an-agent-loop.md)
 **API** — A defined set of requests one program can make of another, and
 the answers it can expect back — the menu, not the kitchen. Full article:
 [What is an API?](basics/what-is-an-api.md)
+**Boundary** — A line the agent proposes before the person crosses it: it surfaces a conflict, names what would have to give, and asks — instead of clearing the calendar on its own.
+
 
 **CLI** — A command line interface: controlling a computer by typing
 precise text commands instead of clicking. Full article:
@@ -47,6 +49,8 @@ as well not exist for that answer. Full article:
 [What is a context window?](basics/what-is-a-context-window.md)
 
 **Dashboard** — A surface that gathers the numbers for one job — balances, budgets, totals — so the whole picture is visible at a glance. It becomes a workboard when you can act on it, not just read it.
+**Debrief** — A short review after an event: what worked, what flexed, what to change — written into the standing instructions the same day, while it is still fresh.
+
 
 **Embedding** — A list of numbers that stands for a piece of text by its
 meaning, so that pieces with similar meanings get similar numbers and a
@@ -126,6 +130,8 @@ teaches an AI agent how to do one job well, the same way every time.
 Articles in this playbook tell the story of a lesson; a skill is the lesson
 turned into a tool.
 **Space** — A small web surface built for one job, fed by the records you already keep and rebuilt on a schedule, so it stays current without anyone opening it and editing it by hand.
+**Standing rule** — A rule written into the agent's instructions that applies every time, until it is changed. A standing rule is how a one-time lesson becomes permanent behavior.
+
 
 
 **Token** — The small chunk of text — often part of a word — that an LLM
