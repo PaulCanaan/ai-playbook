@@ -63,7 +63,7 @@ weekly reviews, gates, and handing work to other agents.
 | 008 | [From Records to Workboards](articles/series-2-your-agent-your-project-manager/008-from-records-to-workboards.md) | Living |
 | 009 | [The Overview That Maintains Itself](articles/series-2-your-agent-your-project-manager/009-the-overview-that-maintains-itself.md) | Living |
 | 010 | [Planning Events, Learning Preferences](articles/series-2-your-agent-your-project-manager/010-planning-events-learning-preferences.md) | Living |
-| 011 | How We Build an App on Muse Spaces | Planned |
+| 011 | [How We Build an App on Muse Spaces](articles/series-2-your-agent-your-project-manager/011-how-we-build-an-app-on-muse-spaces.md) | Living |
 
 ### Series 3 — AI for Ministry Operations
 

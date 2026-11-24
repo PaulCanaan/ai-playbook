@@ -65,4 +65,4 @@ And one thing that is not a pattern yet, only an observation: the plan is not th
 
 ---
 
-*The next one is not yet written.*
+*Next in this series: [Article 011 — How We Build an App on Muse Spaces](011-how-we-build-an-app-on-muse-spaces.md).*
